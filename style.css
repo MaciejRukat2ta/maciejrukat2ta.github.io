@@ -277,6 +277,32 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         padding-top: 2vw;
         font-size:4vw;
         font-family:"Kalam"; 
+        clear:both;
+    }
+
+
+    .galeria
+    {
+        padding-top: 10vw;
+        width:100%;
+        margin-top: 10vw;
+        background-color:#a3a3a3;
+        height: 100vw;
+        margin-left:auto;
+        margin-right:auto; 
+        margin-bottom: 10vw;
+        text-align: center;
+    }
+    
+  .galeria img
+    {
+        border:2px solid black;
+        
+    }
+    .mini
+    {
+        width:30%;
+        
     }
 }
 

@@ -181,6 +181,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
   .sidebar a {float: none;}
   div.content {margin-left: 0;}
     
+   
     .tresc {
         width:100%;
         margin-top: 10vw;
@@ -198,7 +199,11 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
     }
     .panorama{
         width:70%; 
-        }  
+    border:2px solid black;
+       
+        
+    }    
+    }  
     
     .dogalerii
     {
@@ -297,6 +302,10 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
   .galeria img
     {
         border:2px solid black;
+        
+    }
+    .row{
+       padding-top: 1vh; 
         
     }
     .mini

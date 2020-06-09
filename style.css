@@ -96,6 +96,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
     .menu{width:15%;}
     .logo {
          
+        
         background-color:red;
         height: 20vh;}
     
@@ -167,12 +168,12 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         font-size:8vw;
         padding-top: 1vh;
         color:red;
-        font-family:"Kalam";
+        font-family:"Montserrat";
         padding-bottom: 1vh;
     }
 .sidebar {
     
-    font-family:"Kalam";
+    font-family:"Montserrat";
     width: 100%;
     height: auto;
     position: relative;
@@ -195,7 +196,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         font-size:3vw;
         padding-left: 5%;
         padding-right: 5%;
-        font-family:"Kalam";
+        font-family:"Montserrat";
     }
     .panorama{
         width:70%; 
@@ -212,7 +213,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         height: 140vw;
         margin-left:0; 
         font-size:4vw;
-        font-family:"Kalam";
+        font-family:"Montserrat";
         text-align: center;
         margin-bottom: 10vw;
     
@@ -260,7 +261,7 @@ form button
         margin-left:auto;
         margin-right:auto;
         font-size:3vw;
-        font-family:"Kalam";
+        font-family:"Montserrat";
         background-color: black;
         color:red;
         width:50%;
@@ -304,7 +305,7 @@ form button
         text-align: center;
         cursor: pointer;
         font-size: 3vw;
-        font-family: "Kalam";
+        font-family: "Montserrat";
         color:red;
         
         
@@ -330,7 +331,7 @@ form button
         color:red;
         padding-top: 2vw;
         font-size:4vw;
-        font-family:"Kalam"; 
+        font-family:"Montserrat"; 
         clear:both;
     }
 
@@ -371,7 +372,7 @@ form button
         height: 150vw;
         margin-left:0; 
         font-size:4vw;
-        font-family:"Kalam";
+        font-family:"Montserrat";
         text-align: center;
         margin-bottom: 10vw;
 }
@@ -384,7 +385,7 @@ iframe{
 }
 
 table{   
-    font-family:"Kalam";
+    font-family:"Montserrat";
     margin-left:auto;
     margin-right:auto; 
     border-style:solid;
@@ -395,7 +396,7 @@ table{
 
 td
 {   
-    font-family:"Kalam";
+    font-family:"Montserrat";
     margin-left:auto;
     margin-right:auto; 
     border-style:solid;
@@ -414,7 +415,7 @@ td
         height: 150vw;
         margin-left:0; 
         font-size:4vw;
-        font-family:"Kalam";
+        font-family:"Montserrat";
         text-align: center;
         margin-bottom: 10vw;
         

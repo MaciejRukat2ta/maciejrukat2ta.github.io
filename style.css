@@ -204,8 +204,56 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         
     }    
     }  
+    .formularz
+{
+        width:100%;
+        margin-top: 10vw;
+        background-color:#a3a3a3;
+        height: 140vw;
+        margin-left:0; 
+        font-size:4vw;
+        font-family:"Kalam";
+        text-align: center;
+        margin-bottom: 10vw;
     
-    .dogalerii
+}
+h1{
+    text-decoration: none;
+    font-weight: 400;
+    font-size:4vw; 
+
+
+}
+form input
+{
+    
+    width:20%;
+    
+}
+
+form textarea
+{
+    
+    width:70%;
+    height:20vw;
+    
+}
+
+form select{
+    
+    width:10%;
+    font-size:2vw;
+
+}
+form button
+
+{
+    width:20%;
+    font-size:2vw;
+    
+}
+
+.dogalerii
     {
         
         margin-top:4vw;
@@ -217,7 +265,8 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         color:red;
         width:50%;
         height:4vw;
-        }
+        margin-bottom: 1vw;
+}
     .odnosnik
     
     {   
@@ -313,6 +362,48 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         width:30%;
         
     }
+.mapa
+{      
+        padding-top: 1vw;
+        width:100%;
+        margin-top: 10vw;
+        background-color:#a3a3a3;
+        height: 150vw;
+        margin-left:0; 
+        font-size:4vw;
+        font-family:"Kalam";
+        text-align: center;
+        margin-bottom: 10vw;
+}
+
+iframe{
+    
+    
+    width:70%;
+    height:50vw;
+}
+
+table{   
+    font-family:"Kalam";
+    margin-left:auto;
+    margin-right:auto; 
+    border-style:solid;
+    border-color:red;
+    height:3vw;
+    width:60%;
+    border-collapse: collapse;}
+
+td
+{   
+    font-family:"Kalam";
+    margin-left:auto;
+    margin-right:auto; 
+    border-style:solid;
+    border-color:red;
+    height:3vw;
+    width:60%;
+    border-collapse: collapse;
+}
 }
 
 

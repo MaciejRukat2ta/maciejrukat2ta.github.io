@@ -86,7 +86,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         margin-top: 2vw;
         width:40%; 
         background-color:#a3a3a3;
-        height: 30vw;
+        height: 35vw;
         float:right;
         text-align:center;
         margin-bottom: 2vw;     
@@ -97,7 +97,7 @@ body{margin:0; padding:0; background-color:#4d4d4d;width:100%; height:auto;  }
         margin-top: 2vw;
         width:40%;
         background-color:#a3a3a3;
-        height: 30vw;
+        height: 35vw;
         float:right;
         text-align:center;
         margin-bottom: 2vw;
@@ -386,7 +386,7 @@ font-family:"Montserrat";
     .tresc {
         width:78%; 
         background-color:#a3a3a3;
-        height: 60vw;
+        height: 70vw;
         float:right;
         margin-left:18%;
         margin-top: 5vw;
@@ -414,7 +414,7 @@ font-family:"Montserrat";
         margin:0;
         width:78%;
         background-color:#a3a3a3;
-        height: 50vw;
+        height: 60vw;
         float:right;
         margin-left:18%;
         margin-top: 5vw;
@@ -790,7 +790,7 @@ form button
         margin-top: 10vw;
         background-color:#a3a3a3;
         margin-left:0;
-        height: 70vw;}
+        height: 80vw;}
     .tresc3 {
         width:100%;
         margin-top: 10vw;
